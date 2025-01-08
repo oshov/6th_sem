@@ -1,3 +1,0 @@
-Line1 from file1
-Line2 from file1
-Line3 from file1

@@ -1,5 +1,0 @@
-Line1 from file1
-Line1 from file2
-Line2 from file1
-Line2 from file2
-Line3 from file1
